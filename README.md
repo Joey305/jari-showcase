@@ -1,7 +1,7 @@
 
 # JARI — Linker-Driven Drug Design (Showcase)
 
-**JARI** (Joint Alignment & Relevance Indexing) is a script-based toolkit for prioritizing PROTAC linker candidates based on clustering and pose evaluation. Inspired by PRosettaC’s original approach, JARI enables a **linker-first** strategy where conformers are clustered and scored based on their ability to reproduce high-quality ternary docking outputs.
+**JARI** (Joey's Analysis of Rational Interlinkers) is a script-based toolkit for prioritizing PROTAC linker candidates based on clustering and pose evaluation. Inspired by PRosettaC’s original approach, JARI enables a **linker-first** strategy where conformers are clustered and scored based on their ability to reproduce high-quality ternary docking outputs.
 
 🧪 This is a public showcase repo (documentation + figures only). Source code and core algorithms are not exposed here.
 
