@@ -9,7 +9,7 @@
 
 ## 🔬 Overview
 
-JARI is built to help answer the question: **"Given a large number of docked ternary complexes, which linkers yield the most consistent, well-packed degraders?"**
+JARI is built to help answer the question: **"Given a large number of docked ternary complexes, which linkers yield the most favorable arrangements of PPI between the Target Protein and Ligase Protein, consistently across the generated models."**
 
 The method assumes docking outputs from tools like PRosettaC and uses:
 - Pairwise **DockQ similarity matrices**
