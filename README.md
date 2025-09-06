@@ -9,6 +9,8 @@
 
 ## 🔬 Overview
 
+  ![Workflow](assets/jari_workflow.png)
+
 JARI is built to help answer the question: **"Given a large number of docked ternary complexes, which linkers yield the most favorable arrangements of PPI between the Target Protein and Ligase Protein, consistently across the generated models."**
 
 The method assumes docking outputs from tools like PRosettaC and uses:
@@ -59,9 +61,6 @@ Output: Optimal linker candidates
   ![Model Frequencies](assets/jari_model_frequencies.png)
 
 ### 3. Hierarchical Insights
-
-- **Workflow Diagram**  
-  ![Workflow](assets/jari_workflow.png)
 
 - **Colored Dendrogram**  
   ![Dendrogram](assets/jari_dendrogram.png)
