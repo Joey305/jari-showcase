@@ -44,6 +44,9 @@ Output: Optimal linker candidates
 - **Cluster count vs. epsilon**  
   ![Cluster vs Epsilon](assets/jari_cluster_vs_eps.png)
 
+- **Size of Largest Cluster vs. epsilon**  
+  ![Silhouette vs Epsilon](assets/jari_LGcluster_vs_eps.png)
+
 - **Silhouette score vs. epsilon**  
   ![Silhouette vs Epsilon](assets/jari_silhouette_vs_eps.png)
 
@@ -129,8 +132,9 @@ jari-linker-design-showcase/
     ├── jari_docked_pose.png
     ├── jari_rmsf.png
     └── jari_sme_matrix.png
+    
 ```
 
 ---
 
-📩 Contact: **joey@dksmithandco.com**
+📩 Contact: **jmschulz@med.miami.edu**
